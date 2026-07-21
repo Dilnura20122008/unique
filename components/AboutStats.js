@@ -39,7 +39,7 @@ export default function AboutStats({ contact }) {
 
         <div className="relative overflow-hidden rounded-2xl border border-line">
           <img
-            src="https://images.unsplash.com/photo-1600661653561-629509216228?q=80&w=1200&auto=format&fit=crop"
+            src="/uploads/imm.jpg"
             alt="Unique Service"
             className="h-full w-full object-cover"
           />
