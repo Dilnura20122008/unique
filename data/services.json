@@ -61,32 +61,7 @@
     "desc_uz": "Kuzovni himoya plyonkasi bilan qoplash. Toshi, tirnalish va zarbalardan himoya.",
     "desc_ru": "Оклейка кузова защитной плёнкой. Защита от камней, царапин и сколов.",
     "image": "https://images.unsplash.com/photo-1494905998402-395d579af36f?q=80&w=800&auto=format&fit=crop"
-  },
-  {
-    "id": "8",
-    "icon": "Car",
-    "title_uz": "MERSEDES QILISH",
-    "title_ru": "ПРЕОБРАЗОВАНИЕ В MERCEDES",
-    "desc_uz": "Standartdan original holatga o'tkazish. To'liq o'zgarish.",
-    "desc_ru": "Переход от стандартной к оригинальной комплектации. Полное преображение.",
-    "image": "https://images.unsplash.com/photo-1622200294737-08c2f1a76dd6?q=80&w=800&auto=format&fit=crop"
-  },
-  {
-    "id": "9",
-    "icon": "Crown",
-    "title_uz": "MAYBAX QILISH",
-    "title_ru": "ПРЕОБРАЗОВАНИЕ В MAYBACH",
-    "desc_uz": "Maybax dizayniga o'zgartirish. Lyuks va hashamat.",
-    "desc_ru": "Изменение в стиле Maybach. Люкс и роскошь.",
-    "image": "https://images.unsplash.com/photo-1631295868223-63265b40d9e4?q=80&w=800&auto=format&fit=crop"
-  },
-  {
-    "id": "10",
-    "icon": "Flame",
-    "title_uz": "BRABUS QILISH",
-    "title_ru": "ПРЕОБРАЗОВАНИЕ В BRABUS",
-    "desc_uz": "Brabus uslubida to'liq o'zgartirish. Kuch va uslub birga.",
-    "desc_ru": "Полное преображение в стиле Brabus. Сила и стиль вместе.",
-    "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?q=80&w=800&auto=format&fit=crop"
   }
+ 
+ 
 ]
