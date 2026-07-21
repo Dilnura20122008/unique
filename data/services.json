@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "icon": "Armchair",
+    "title_uz": "SALON TIKISH",
+    "title_ru": "ПЕРЕТЯЖКА САЛОНА",
+    "desc_uz": "O'rindiqlar, eshik kartalari, panel va boshqa qismlarni tikish.",
+    "desc_ru": "Перетяжка сидений, дверных карт, панели и других деталей салона.",
+    "image": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "2",
+    "icon": "Sofa",
+    "title_uz": "CHEXOL O'RNATISH",
+    "title_ru": "УСТАНОВКА ЧЕХЛОВ",
+    "desc_uz": "Turli xil chexollarni o'rnatish. Premium materiallar.",
+    "desc_ru": "Установка чехлов разных видов. Премиальные материалы.",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "3",
+    "icon": "Sparkles",
+    "title_uz": "POLIK (POLIROVKA)",
+    "title_ru": "ПОЛИРОВКА",
+    "desc_uz": "Kuzovga chuqur yaltiroqlik berish, mayda tirnalishlarni yo'qotish.",
+    "desc_ru": "Глубокий блеск кузова, устранение мелких царапин.",
+    "image": "https://images.unsplash.com/photo-1607860108855-64acf2078ed9?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "4",
+    "icon": "Droplets",
+    "title_uz": "CHISKA TOZALASH",
+    "title_ru": "ХИМЧИСТКА",
+    "desc_uz": "Kuzov va detallarga chuqur yuvish, ifloslik va yog'larni tozalash.",
+    "desc_ru": "Глубокая мойка кузова и деталей, удаление грязи и жира.",
+    "image": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "5",
+    "icon": "ShieldCheck",
+    "title_uz": "KERAMIKA QOPLAMA",
+    "title_ru": "КЕРАМИЧЕСКОЕ ПОКРЫТИЕ",
+    "desc_uz": "Kuzovni himoya qiluvchi keramika qoplama. Ultra himoya va yaltiroqlik.",
+    "desc_ru": "Керамическое покрытие для защиты кузова. Ультра-защита и блеск.",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "6",
+    "icon": "SunDim",
+    "title_uz": "TONIROVKA",
+    "title_ru": "ТОНИРОВКА",
+    "desc_uz": "Sifatli va ruxsat etilgan to'q rangli plyonkalar bilan tonirovka.",
+    "desc_ru": "Тонировка качественной и разрешённой тёмной плёнкой.",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "7",
+    "icon": "Shield",
+    "title_uz": "KUZOV BRON",
+    "title_ru": "БРОНИРОВАНИЕ КУЗОВА",
+    "desc_uz": "Kuzovni himoya plyonkasi bilan qoplash. Toshi, tirnalish va zarbalardan himoya.",
+    "desc_ru": "Оклейка кузова защитной плёнкой. Защита от камней, царапин и сколов.",
+    "image": "https://images.unsplash.com/photo-1494905998402-395d579af36f?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "8",
+    "icon": "Car",
+    "title_uz": "MERSEDES QILISH",
+    "title_ru": "ПРЕОБРАЗОВАНИЕ В MERCEDES",
+    "desc_uz": "Standartdan original holatga o'tkazish. To'liq o'zgarish.",
+    "desc_ru": "Переход от стандартной к оригинальной комплектации. Полное преображение.",
+    "image": "https://images.unsplash.com/photo-1622200294737-08c2f1a76dd6?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "9",
+    "icon": "Crown",
+    "title_uz": "MAYBAX QILISH",
+    "title_ru": "ПРЕОБРАЗОВАНИЕ В MAYBACH",
+    "desc_uz": "Maybax dizayniga o'zgartirish. Lyuks va hashamat.",
+    "desc_ru": "Изменение в стиле Maybach. Люкс и роскошь.",
+    "image": "https://images.unsplash.com/photo-1631295868223-63265b40d9e4?q=80&w=800&auto=format&fit=crop"
+  },
+  {
+    "id": "10",
+    "icon": "Flame",
+    "title_uz": "BRABUS QILISH",
+    "title_ru": "ПРЕОБРАЗОВАНИЕ В BRABUS",
+    "desc_uz": "Brabus uslubida to'liq o'zgartirish. Kuch va uslub birga.",
+    "desc_ru": "Полное преображение в стиле Brabus. Сила и стиль вместе.",
+    "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?q=80&w=800&auto=format&fit=crop"
+  }
+]

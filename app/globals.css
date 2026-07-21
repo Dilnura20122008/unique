@@ -1,0 +1,130 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #0a0a0b;
+  --ink-2: #111113;
+  --card: #17161a;
+  --card-2: #1d1c21;
+  --gold: #c9973e;
+  --gold-light: #e9c876;
+  --gold-deep: #8a6a2c;
+  --bone: #f3efe6;
+  --muted: #9a958c;
+  --line: rgba(201, 151, 62, 0.22);
+}
+
+@theme inline {
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-card: var(--card);
+  --color-card-2: var(--card-2);
+  --color-gold: var(--gold);
+  --color-gold-light: var(--gold-light);
+  --color-gold-deep: var(--gold-deep);
+  --color-bone: var(--bone);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+}
+
+:root {
+  --font-display: "Oswald", "Arial Narrow", sans-serif;
+  --font-body: "Manrope", "Segoe UI", Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--ink);
+  color: var(--bone);
+  font-family: var(--font-body), Arial, sans-serif;
+}
+
+.font-display {
+  font-family: var(--font-display), sans-serif;
+}
+
+.gold-text {
+  color: var(--gold);
+}
+
+.gold-gradient-text {
+  background: linear-gradient(120deg, var(--gold-deep), var(--gold), var(--gold-light), var(--gold));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* signature: polish-sweep shimmer used on hover for gold buttons & cards */
+.sweep {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+}
+.sweep::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -60%;
+  width: 40%;
+  height: 100%;
+  background: linear-gradient(
+    100deg,
+    transparent 0%,
+    rgba(255, 255, 255, 0.35) 50%,
+    transparent 100%
+  );
+  transform: skewX(-20deg);
+  transition: left 0.7s ease;
+  pointer-events: none;
+  z-index: 1;
+}
+.sweep:hover::after {
+  left: 130%;
+}
+
+.section-label {
+  letter-spacing: 0.22em;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.animate-fade-up {
+  animation: fadeUp 0.7s ease both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sweep::after {
+    transition: none;
+  }
+  .animate-fade-up {
+    animation: none;
+  }
+}
+
+::selection {
+  background: var(--gold);
+  color: #0a0a0b;
+}
+
+/* custom scrollbar for admin tables etc */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--gold-deep);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-track {
+  background: var(--ink-2);
+}

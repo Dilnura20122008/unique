@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "category": "salon",
+    "image": "/gallery/img1.png",
+    "title_uz": "Salon tikish",
+    "title_ru": "Перетяжка салона"
+  },
+  {
+    "id": "2",
+    "category": "salon",
+    "image": "/gallery/img2.png",
+    "title_uz": "Chexol o'rnatish",
+    "title_ru": "Установка чехлов"
+  },
+  {
+    "id": "3",
+    "category": "yuvish",
+    "image": "/gallery/img3.png",
+    "title_uz": "Mashina yuvish",
+    "title_ru": "Мойка автомобиля"
+  },
+  {
+    "id": "4",
+    "category": "boshqa",
+    "image": "/gallery/img44.png",
+    "title_uz": "Motor tozalash",
+    "title_ru": "Чистка двигателя"
+  },
+  {
+    "id": "5",
+    "category": "polirovka",
+    "image": "/gallery/img5.png",
+    "title_uz": "Polirovka",
+    "title_ru": "Полировка"
+  },
+  {
+    "id": "6",
+    "category": "boshqa",
+    "image": "/gallery/img6.png",
+    "title_uz": "Garaj",
+    "title_ru": "Гараж"
+  },
+  {
+    "id": "7",
+    "category": "boshqa",
+    "image": "/gallery/img7.png",
+    "title_uz": "Avtomobil",
+    "title_ru": "Автомобиль"
+  },
+  {
+    "id": "8",
+    "category": "tonirovka",
+    "image": "/gallery/img8.png",
+    "title_uz": "Tonirovka",
+    "title_ru": "Тонировка"
+  },
+  {
+    "id": "9",
+    "category": "polirovka",
+    "image": "/gallery/img9.png",
+    "title_uz": "Polirovka",
+    "title_ru": "Полировка деталей"
+  },
+  {
+    "id": "10",
+    "category": "boshqa",
+    "image": "/gallery/img10.png",
+    "title_uz": "Mijoz bilan ish",
+    "title_ru": "Работа с клиентом"
+  }
+]
