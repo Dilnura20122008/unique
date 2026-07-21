@@ -9,11 +9,16 @@ export default function Hero({ contact, onBook }) {
   return (
     <section id="home" className="relative overflow-hidden">
       <div className="absolute inset-0">
-        <img
-          src="https://images.unsplash.com/photo-1617469767053-8f35aaa39a0a?q=80&w=1600&auto=format&fit=crop"
-          alt=""
-          className="h-full w-full object-cover opacity-45"
-        />
+  <video
+    autoPlay
+    muted
+    loop
+    playsInline
+    preload="auto"
+    className="absolute inset-0 h-full w-full object-cover"
+  >
+    <source src="/uploads/vdd.mp4" type="video/mp4" />
+  </video>
         <div className="absolute inset-0 bg-gradient-to-r from-ink via-ink/85 to-ink/30" />
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-transparent to-ink/60" />
       </div>

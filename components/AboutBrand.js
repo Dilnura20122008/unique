@@ -8,11 +8,16 @@ export default function AboutBrand() {
   return (
     <section className="mx-auto max-w-7xl px-5 py-10">
       <div className="relative overflow-hidden rounded-2xl border border-line">
-        <img
-          src="https://images.unsplash.com/photo-1631295868223-63265b40d9e4?q=80&w=1600&auto=format&fit=crop"
-          alt=""
-          className="absolute inset-0 h-full w-full object-cover"
-        />
+        <video
+    autoPlay
+    muted
+    loop
+    playsInline
+    preload="auto"
+    className="absolute inset-0 h-full w-full object-cover"
+  >
+    <source src="/uploads/vd.mp4" type="video/mp4" />
+  </video>
         <div className="absolute inset-0 bg-gradient-to-r from-ink via-ink/85 to-ink/20" />
         <div className="relative flex flex-col gap-6 px-6 py-14 sm:px-12 sm:py-20 max-w-xl">
           <div className="flex items-center gap-3">
