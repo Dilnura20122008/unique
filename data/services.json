@@ -4,64 +4,89 @@
     "icon": "Armchair",
     "title_uz": "SALON TIKISH",
     "title_ru": "ПЕРЕТЯЖКА САЛОНА",
-    "desc_uz": "O'rindiqlar, eshik kartalari, panel va boshqa qismlarni tikish.",
-    "desc_ru": "Перетяжка сидений, дверных карт, панели и других деталей салона.",
-    "image": "https://images.unsplash.com/photo-1601362840469-51e4d8d58785?q=80&w=800&auto=format&fit=crop"
+    "desc_uz": "Salonni premium charm va sifatli materiallar bilan to'liq qayta tiklash.",
+    "desc_ru": "Полная перетяжка салона премиальной кожей и качественными материалами.",
+    "image": "/services/salon.jpg"
   },
   {
     "id": "2",
     "icon": "Sofa",
-    "title_uz": "CHEXOL O'RNATISH",
-    "title_ru": "УСТАНОВКА ЧЕХЛОВ",
-    "desc_uz": "Turli xil chexollarni o'rnatish. Premium materiallar.",
-    "desc_ru": "Установка чехлов разных видов. Премиальные материалы.",
-    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=800&auto=format&fit=crop"
+    "title_uz": "CHEXOL VA POLIK",
+    "title_ru": "ЧЕХЛЫ И ПОЛИКИ",
+    "desc_uz": "Chexol o'rnatish, EVA polik va barcha turdagi salon aksessuarlari.",
+    "desc_ru": "Установка чехлов, EVA ковриков и аксессуаров для салона.",
+    "image": "/services/chexol.jpg"
   },
   {
     "id": "3",
     "icon": "Sparkles",
-    "title_uz": "POLIK (POLIROVKA)",
+    "title_uz": "POLIROVKA",
     "title_ru": "ПОЛИРОВКА",
-    "desc_uz": "Kuzovga chuqur yaltiroqlik berish, mayda tirnalishlarni yo'qotish.",
-    "desc_ru": "Глубокий блеск кузова, устранение мелких царапин.",
-    "image": "https://images.unsplash.com/photo-1607860108855-64acf2078ed9?q=80&w=800&auto=format&fit=crop"
+    "desc_uz": "Kuzovni professional polirovka qilish va chuqur yaltiroqlik berish.",
+    "desc_ru": "Профессиональная полировка кузова с глубоким блеском.",
+    "image": "/services/polirovka.jpg"
   },
   {
     "id": "4",
     "icon": "Droplets",
-    "title_uz": "CHISKA TOZALASH",
+    "title_uz": "XIMCHISTKA",
     "title_ru": "ХИМЧИСТКА",
-    "desc_uz": "Kuzov va detallarga chuqur yuvish, ifloslik va yog'larni tozalash.",
-    "desc_ru": "Глубокая мойка кузова и деталей, удаление грязи и жира.",
-    "image": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?q=80&w=800&auto=format&fit=crop"
+    "desc_uz": "Salon va kuzovni chuqur kimyoviy tozalash xizmati.",
+    "desc_ru": "Глубокая химчистка салона и кузова автомобиля.",
+    "image": "/services/chistka.jpg"
   },
   {
     "id": "5",
     "icon": "ShieldCheck",
-    "title_uz": "KERAMIKA QOPLAMA",
-    "title_ru": "КЕРАМИЧЕСКОЕ ПОКРЫТИЕ",
-    "desc_uz": "Kuzovni himoya qiluvchi keramika qoplama. Ultra himoya va yaltiroqlik.",
-    "desc_ru": "Керамическое покрытие для защиты кузова. Ультра-защита и блеск.",
-    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=800&auto=format&fit=crop"
+    "title_uz": "KERAMIKA",
+    "title_ru": "КЕРАМИКА",
+    "desc_uz": "Avtomobil kuzovi uchun premium keramika himoya qoplami.",
+    "desc_ru": "Премиальное керамическое покрытие кузова автомобиля.",
+    "image": "/services/ceramic.jpg"
   },
   {
     "id": "6",
-    "icon": "SunDim",
-    "title_uz": "TONIROVKA",
-    "title_ru": "ТОНИРОВКА",
-    "desc_uz": "Sifatli va ruxsat etilgan to'q rangli plyonkalar bilan tonirovka.",
-    "desc_ru": "Тонировка качественной и разрешённой тёмной плёнкой.",
-    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=800&auto=format&fit=crop"
+    "icon": "PaintBucket",
+    "title_uz": "PAKRASKA",
+    "title_ru": "ПОКРАСКА",
+    "desc_uz": "Kuzovni professional bo'yash va rang tiklash ishlari.",
+    "desc_ru": "Профессиональная покраска кузова и восстановление цвета.",
+    "image": "/services/paint.jpg"
   },
   {
     "id": "7",
     "icon": "Shield",
     "title_uz": "KUZOV BRON",
     "title_ru": "БРОНИРОВАНИЕ КУЗОВА",
-    "desc_uz": "Kuzovni himoya plyonkasi bilan qoplash. Toshi, tirnalish va zarbalardan himoya.",
-    "desc_ru": "Оклейка кузова защитной плёнкой. Защита от камней, царапин и сколов.",
-    "image": "https://images.unsplash.com/photo-1494905998402-395d579af36f?q=80&w=800&auto=format&fit=crop"
+    "desc_uz": "Kuzovni bron plyonka bilan himoyalash. Tosh va tirnalishlardan himoya.",
+    "desc_ru": "Оклейка кузова бронепленкой для защиты от сколов и царапин.",
+    "image": "/services/bron.jpg"
+  },
+  {
+    "id": "8",
+    "icon": "Wrench",
+    "title_uz": "TUNING",
+    "title_ru": "ТЮНИНГ",
+    "desc_uz": "Avtomobil eksteryeri va interyerini individual uslubda modernizatsiya qilish.",
+    "desc_ru": "Модернизация экстерьера и интерьера автомобиля.",
+    "image": "/services/tuning.jpg"
+  },
+  {
+    "id": "9",
+    "icon": "Car",
+    "title_uz": "MAYBACH / BRABUS",
+    "title_ru": "MAYBACH / BRABUS",
+    "desc_uz": "Mercedes avtomobillarini Maybach va Brabus uslubiga professional o'zgartirish.",
+    "desc_ru": "Профессиональное переоборудование Mercedes в стиль Maybach и Brabus.",
+    "image": "/services/maybach.jpg"
+  },
+  {
+    "id": "10",
+    "icon": "Settings",
+    "title_uz": "BOSHQA XIZMATLAR",
+    "title_ru": "ДРУГИЕ УСЛУГИ",
+    "desc_uz": "Avtomobilingiz uchun kerak bo'ladigan barcha premium xizmatlar bir maskanda.",
+    "desc_ru": "Все необходимые премиальные услуги для вашего автомобиля в одном месте.",
+    "image": "/services/other.jpg"
   }
- 
- 
 ]
