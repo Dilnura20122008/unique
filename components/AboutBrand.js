@@ -9,8 +9,11 @@ export default function AboutBrand() {
     <section className="mx-auto max-w-7xl px-10 py-10">
       <div className="relative overflow-hidden rounded-2xl border border-line">
         
-<img src="/uploads/pp.jpg"
-    className="absolute inset-0 h-full w-full object-cover"/>
+<img
+  src="/uploads/pp.jpg"
+  alt="Unique Service"
+  className="absolute inset-0 h-full w-full object-cover"
+/>
   
         <div className="absolute inset-0 bg-gradient-to-r from-ink via-ink/85 to-ink/20" />
         <div className="relative flex flex-col gap-6 px-6 py-14 sm:px-12 sm:py-20 max-w-xl">
