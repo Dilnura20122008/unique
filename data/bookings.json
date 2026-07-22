@@ -1,22 +1,12 @@
 [
   {
-    "id": "mrv3np2ff2kw4",
-    "name": "Jasur ",
-    "phone": "+998338821509",
-    "service": "BRABUS QILISH",
-    "date": "2001-11-08",
-    "comment": "",
+    "id": "mrw996lneu0qq",
+    "name": "Jasur ibrohimjonov",
+    "phone": "977835588",
+    "service": "POLIK (POLIROVKA)",
+    "date": "2001-08-11",
+    "comment": "zxc",
     "status": "new",
-    "createdAt": "2026-07-21T20:22:09.063Z"
-  },
-  {
-    "id": "mrvzivhtogwpg",
-    "name": "Jasur Ibrohimjonov",
-    "phone": "+998338821509",
-    "service": "KERAMIKA QOPLAMA",
-    "date": "2011-11-08",
-    "comment": "",
-    "status": "new",
-    "createdAt": "2026-07-22T11:14:11.825Z"
+    "createdAt": "2026-07-22T15:46:35.819Z"
   }
 ]
