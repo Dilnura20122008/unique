@@ -10,7 +10,7 @@ export default function AboutBrand() {
       <div className="relative overflow-hidden rounded-2xl border border-line">
         
 <img
-  src="/uploads/ne.jpg"
+  src="/uploads/pp.jpg"
   alt="Unique Service"
   className="absolute inset-0 h-full w-full object-cover"
 />
