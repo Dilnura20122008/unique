@@ -2,7 +2,7 @@
 
 import { useLang } from "@/components/LanguageContext";
 
-export default function Gallery() {
+export default function Galleryy() {
   const { t } = useLang();
 
   return (
