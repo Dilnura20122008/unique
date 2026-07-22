@@ -13,7 +13,7 @@ export default function Gallery({ items = [] }) {
     <section id="gallery" className="mx-auto max-w-7xl px-5 py-20 mt-12">
       
 
- <div className="relative w-[900px] ml-42 h-[400px] border border-yellow-500/40 overflow-hidden rounded-3xl">
+ <div className="relative  h-[400px] border border-yellow-500/40 overflow-hidden rounded-3xl">
   <video
     autoPlay
     muted
